@@ -1,3 +1,3 @@
 # deploy-key-test-repo
 
-__Repo for testing [PXgamer/github-deploy-key](https://github.com/PXgamer/github-deploy-key).__
+_Repo for testing [pxgamer/github-deploy-key](https://github.com/pxgamer/github-deploy-key)._
